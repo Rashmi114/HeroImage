@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    height: 100vh;
+
+}
+.heading{
+    font-size: 35px;
+    padding: 15px;
+    font-weight: bold;
+}
+.container{
+    width: 100%;
+    display: flex;
+    position: relative;
+    /* height: 100vh; */
+}
+.formConatiner{
+    /* padding: 25px; */
+    margin: 20px;
+    width: 50%;
+   
+}
+
+
+.imageContainer{
+    margin: 20px;
+    width: 50%;
+    
+}
